@@ -1,0 +1,291 @@
+.bg-custom{
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),
+	url("image/bag.jpg");
+	background-size: cover;
+	position: relative;
+}
+.custom-head{
+	background-color: #00336699;
+	height:40px;
+	
+	
+
+}
+
+.custom-img{
+	margin-top: 120px;
+	margin-left: 130px;
+	
+	border-radius:30%;
+	height: 400px !important;
+	width: 300px !important;
+	opacity: 60%;
+	
+}
+.custom-nav{
+	height: 100px;
+	background-color: rgba(0,0,0,0.8) !important;
+}
+.custom-nav a{
+	font-size: 20px;
+	margin-right: 50px;
+}
+
+}
+	
+.banner-custom{
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),
+	url("image/bag.jpg");
+	background-size: cover;
+
+}
+.navbar{
+	z-index:1 ;
+}
+.custom-drop{
+	background-color:  rgba(0,0,0,0.8) !important;
+}
+.custom-drop a{
+	color: white;
+}
+.custom-text{
+	margin-top: 280px;
+	margin-left: 10px;
+	color: white;
+	font-size: 30px;
+	border-left: 2px solid white;
+	opacity: 60%;
+}
+.costom-footer{
+	background-color: black;
+}
+.costom-text{
+	color: white;
+}
+.fot{
+	color: yellow;
+}
+.custom-work{
+	font-size: 40px;
+	color: black;
+	margin-left: 20px;
+	margin-top: 80px;
+}
+.custom-i img{
+	height: 200px;
+	width: 500px;
+	margin-left:50px;
+	margin-top: 20px;
+	}
+.custom-j img{
+	height: 200px;
+	width: 500px;
+	margin-right:50px;
+	margin-top: 20px;
+}
+.custom-work-row{
+	margin-bottom: 50px;
+}
+
+
+
+.bg-custom-work{
+	background-image:url(image/work.jpg);
+	background-size: cover;
+	position: relative;
+}
+.custom-img-about{
+	margin-top: 180px;
+	height: 300px;
+	border-radius:30%;
+	
+	
+}
+.bg-custom-about{
+	background-color: rgba(0,0,0,0.8);
+	background-size: cover;
+	position: relative;
+}
+
+
+.about-custom{
+	margin-top:30px;
+
+}
+.about-text{
+	margin-left: 30px;
+}
+.about-image img{
+	height: 550px;
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 30px;
+	
+}
+.slide-text{
+	background-color: black;
+}
+.custom-con-img{
+	border-radius:50%;
+	height: 100px !important;
+	width: 100px !important;
+	opacity: 100%;
+	margin-top: 5px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+
+
+}
+.custom-contact-img{
+	border-radius:50%;
+	height: 450px !important;
+	width: 400px !important;
+	opacity: 100%;
+	margin-top: 5px;
+	margin-right: 20px;
+
+
+
+}
+.bg-img-con{
+	background-color: #1a110e;
+	height: 500px;
+
+}
+.contact-text h2{
+	color: white;
+	margin-top: 60px;
+
+}
+.contact-text ul{
+	color: red;
+}
+.contact-text a{
+	font-size: 30px;
+
+}
+.contact-text h5{
+	color: white;
+}
+.cus-gallary img{
+	height: 200px;
+	width: 250px;
+}
+.cus-row-g{
+	margin-top: 20px;
+}
+
+/*--------------------------------------------------------------
+# My Services
+--------------------------------------------------------------*/
+.back{
+	background-color: black!important;
+}
+.services .icon-box {
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
+  transition: all 0.3s ease-in-out;
+  text-align: center;
+  border: 1px solid #fff;
+  height: 200px;
+}
+.services .icon {
+  margin: 0 auto 20px auto;
+  padding-top: 17px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  width: 72px;
+  height: 72px;
+  background: #fff4df;
+}
+.services .icon i {
+  font-size: 36px;
+  line-height: 1;
+  color: #ffb727;
+}
+.services .title {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+.services .title a {
+  color: #111;
+  transition: 0.3s;
+}
+.services .description {
+  font-size: 15px;
+  line-height: 28px;
+  margin-bottom: 0;
+}
+.services .icon-box:hover {
+  border-color: #ffb727;
+}
+.services .icon-box:hover .title a {
+  color: #ffb727;
+}
+
+
+
+
+/*socal*/
+
+.social{
+	margin-left: 150px;
+}
+.icon{
+	background-color: #000000;
+	font-size: 28px;
+	color: #ffffff;
+	border: 1px solid #535353;
+	border-radius: 8px;
+	width: 45px;
+	text-align: center;
+	display: inline-block;
+	margin: 50px 5px;
+	transition: all .7s ease;
+}
+.icon:hover{
+	color: #000000;
+	background-color: transparent; 
+}
+
+
+/*---skill section start---*/
+.skill{
+	padding-left: 20px;
+}
+.skill .skill-box{
+	flex: 0 0 100%;
+	max-width: 100%;
+	margin-top: 20px;
+}
+.skill .skill-box h6{
+	font-size: 17px;
+	font-weight: 500;
+	color: #000;
+}
+.skill .skill-bar{
+	background-color: #eeeeee;
+	height: 6px;
+	border-radius: 3px;
+	position: relative;
+}
+.skill .skill-bar .skill-bar-in{
+	background-color: #febd01;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+}
+.skill .skill-bar span{
+	color: #838383;
+	font-weight: 400;
+	position: absolute;
+	right: 0;
+	top: -23px;
+}
+/*---skill section end--*/
